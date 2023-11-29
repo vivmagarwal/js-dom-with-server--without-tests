@@ -1,0 +1,71 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Abram Langtry",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 1,
+      "salary": 95000
+    },
+    {
+      "id": 2,
+      "name": "Flossy Arrell",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 2,
+      "salary": 20000
+    },
+    {
+      "id": 3,
+      "name": "Giorgio Antonioni",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 3,
+      "salary": 95000
+    },
+    {
+      "name": "Himanshu",
+      "image": "/images/avatar/avatar2.jpeg",
+      "department": 4,
+      "salary": 100000,
+      "createdAt": 1670325954162,
+      "id": "tEYFrHNsdO"
+    },
+    {
+      "name": "John Doe",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 1,
+      "salary": 80000,
+      "id": "R4dvtugCT2"
+    },
+    {
+      "name": "Prashant",
+      "image": "/images/avatar/avatar1.jpeg",
+      "department": 3,
+      "salary": 3000000,
+      "createdAt": 1682915578786,
+      "id": "I7kUQkh6RV"
+    }
+  ],
+  "users": [
+    {
+      "it": 1,
+      "username": "admin",
+      "firstname": "To",
+      "lastname": "Minister",
+      "email": "admin@mail.com",
+      "password": "$2b$10$lLm5Lp40uBR9CUrZn58CdOl8yu5Gp2umAO.6ly.vWcZ0a0vUKsHiC",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+      "userLevel": 4,
+      "createdAt": 1670165980638
+    },
+    {
+      "username": "prithvi",
+      "password": "$2b$10$wJheJi5oF3eOYNQMq59U3OsdJcYgvPWwZSe8DARE8yqRFBqZTTZNK",
+      "email": "prithvi@mail.com",
+      "firstname": "prithvi",
+      "lastname": "chouhan",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+      "createdAt": 1682916751023,
+      "id": "QBBJgPwdO6"
+    }
+  ]
+}
