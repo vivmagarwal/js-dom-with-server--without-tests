@@ -12,15 +12,10 @@
     "live": "npm run start",
     "build": "vite build --port=8080",
     "server": "npx json-server -w db.json -m ./jsonServerMiddleware.cjs -p 9090",
-    "watch": "npm run server & npm run start",
-    "cypress:open": "cypress open",
-    "cypress:run": "cypress run --browser chrome",
-    "test": "cypress run --browser chrome"
+    "watch": "npm run server & npm run start"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
-    "cypress": "^10.11.0",
-    "cypress-localstorage-commands": "^2.2.1",
     "dotenv": "^16.0.3",
     "isomorphic-fetch": "^3.0.0",
     "json-server": "^0.17.1",
